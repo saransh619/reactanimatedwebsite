@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactanimatedwebsite/static/css/main.b72a43a0.chunk.css",
+    "main.js": "/reactanimatedwebsite/static/js/main.f2e4ecb5.chunk.js",
+    "main.js.map": "/reactanimatedwebsite/static/js/main.f2e4ecb5.chunk.js.map",
+    "runtime-main.js": "/reactanimatedwebsite/static/js/runtime-main.687b0aa0.js",
+    "runtime-main.js.map": "/reactanimatedwebsite/static/js/runtime-main.687b0aa0.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/reactanimatedwebsite/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7d2f465a.chunk.js": "/reactanimatedwebsite/static/js/2.7d2f465a.chunk.js",
+    "static/js/2.7d2f465a.chunk.js.map": "/reactanimatedwebsite/static/js/2.7d2f465a.chunk.js.map",
+    "index.html": "/reactanimatedwebsite/index.html",
+    "precache-manifest.3a9bc5d9b503364dcd12c6d7b6a51bae.js": "/reactanimatedwebsite/precache-manifest.3a9bc5d9b503364dcd12c6d7b6a51bae.js",
+    "service-worker.js": "/reactanimatedwebsite/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/reactanimatedwebsite/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.b72a43a0.chunk.css.map": "/reactanimatedwebsite/static/css/main.b72a43a0.chunk.css.map",
+    "static/js/2.7d2f465a.chunk.js.LICENSE.txt": "/reactanimatedwebsite/static/js/2.7d2f465a.chunk.js.LICENSE.txt",
+    "static/media/AndroidStudio-Intro-feature.png": "/reactanimatedwebsite/static/media/AndroidStudio-Intro-feature.5b67f91f.png",
+    "static/media/Custom-Software-Development.jpg": "/reactanimatedwebsite/static/media/Custom-Software-Development.86dcc26e.jpg",
+    "static/media/digital-marketing.png": "/reactanimatedwebsite/static/media/digital-marketing.c5a2d6e2.png",
+    "static/media/home.svg": "/reactanimatedwebsite/static/media/home.f3668a1d.svg",
+    "static/media/mad_blog_5df2190b8638a1576147211.jpg": "/reactanimatedwebsite/static/media/mad_blog_5df2190b8638a1576147211.c0a3c656.jpg",
+    "static/media/marketing-plan_1.jpg": "/reactanimatedwebsite/static/media/marketing-plan_1.52760bec.jpg",
+    "static/media/technical-support-137-1087325.png": "/reactanimatedwebsite/static/media/technical-support-137-1087325.1a567371.png",
+    "static/media/web.png": "/reactanimatedwebsite/static/media/web.089c6f85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.687b0aa0.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7d2f465a.chunk.js",
+    "static/css/main.b72a43a0.chunk.css",
+    "static/js/main.f2e4ecb5.chunk.js"
+  ]
+}
